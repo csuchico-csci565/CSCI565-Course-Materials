@@ -1,4 +1,4 @@
-# CINS467 Syllabus
+# CSCI565
 
 ## Instructor
 
@@ -6,7 +6,7 @@ Bryan Dixon
 
 ## Prerequisite
 
-CINS 370 with a grade of C or higher, or CSCI 211 and MINS 335, or MINS 325 and MINS 335. (or approved equivalents, check with your advisor)
+CINS 467 with a grade of C or higher. (or approved equivalents, check with your advisor)
 
 Students who take this class without completing the prerequisite class will be given a failing grade.
 
@@ -14,7 +14,7 @@ Students who take this class without completing the prerequisite class will be g
 
 You need an account on the Moodle system.
 
-Go to [https://moodle.csuchico.edu](https://moodle.csuchico.edu "Moodle"), login, and enroll in the CSCI567 account.
+Go to [https://moodle.csuchico.edu](https://moodle.csuchico.edu "Moodle"), login, and enroll in the CSCI565 account.
 
 You will use this system to get your grades. I'll also be enrolling you in a Piazza discussion board for use in this course.
 
@@ -61,7 +61,7 @@ As this is a upper division course you'll likely want to make use of my office h
 
 We will be using Piazza for a class discussion board. You should automatically be enrolled when you enrolled in this course on Moodle. You should post any general questions here first as this will allow more students to benefit from the answer vs me potentially answering the same questions numerous times.
 
-Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CINS467'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
+Additionally, you can email me directly with any specific questions, the distinction would be help with your code or assignment that would be unique to you and sharing with the class on the discussion board would be considered cheating. Make sure you put **'CSCI565'** in the subject so it will be filtered correctly. **ALL EMAIL WITH NO SUBJECT WILL NOT BE OPENED**, so if you send me an email without a subject do not expect a response as I will not open it or respond to it.
 
 I'll be making it a habit to respond immediately to emails received between 9am-5pm, except when I'll otherwise be in a meeting, lecture, etc. Any emails outside of those times will be answered as I can or potentially the next morning at 9am, so try to make sure to email me prior to 5pm.
 
